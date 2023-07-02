@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1582707077 source:d:\work\creditcounter\datastruct.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<vector>
+	<iostream>
+	<fstream>
+
+1582708178 source:d:\work\creditcounter\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<iostream>
+	<vector>
+	"DataStruct.cpp"
+
+1582708215 d:\work\creditcounter\datastruct.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<vector>
+	<iostream>
+	<fstream>
+
